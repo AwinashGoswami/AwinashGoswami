@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AwinashGoswami
 - 👀 I’m interested in Web Development and Data Analytics
-- 🌱 I’m currently learning and working on both fields
-- 💞️ I’m looking to collaborate with an organiztaion that works on the fields
+- 🌱 I’m currently learning and working on both fields 
+- 💞️ I’m currently hired at Nayatal Pakistan where I work on NextJS and NestJS 
 - 📫 You can reach me at awinashgoswami3@gmail.com
 
 <!---
