@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwinashGoswami
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning and working on both fields 
+- 🌱 I’m currently polishing my skills on both backend and frontend skills   
 - 💞️ I’m currently hired at Nayatal Pakistan where I work on NextJS and NestJS 
 - 📫 You can reach me at awinashgoswami3@gmail.com
 
