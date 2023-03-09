@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AwinashGoswami
+- 👋 Hi, I’m Awinash Goswami
 - 👀 I’m interested in Backend Development NodeJS
-- 🌱 I’m currently polishing my skills on both backend    
+- 🌱 I’m currently polishing my skills on backend    
 - 💞️ I’m currently hired at Nayatal Pakistan where I work on NestJS 
 - 📫 You can reach me at awinashgoswami3@gmail.com
 
